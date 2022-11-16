@@ -1,0 +1,17 @@
+.form-css{
+  margin: auto;
+  margin-top: 20%;
+  margin-bottom: 30px;
+  width: 80%;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+}
+
+.submit {
+  margin-left: 35%;
+}
+
+.field {
+  margin-left: 30%;
+}
